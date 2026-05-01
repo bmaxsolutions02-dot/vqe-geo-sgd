@@ -1,4 +1,5 @@
-qiskit
-qiskit-aer
-matplotlib
-numpy
+qiskit==2.4.1
+qiskit-aer==0.17.2
+matplotlib==3.10.0
+numpy==2.0.2
+pylatexenc
